@@ -28,7 +28,7 @@
 <div id="panel">
 	<div class="row">
 		<div class="twelve columns">
-			<img src="./images/SiteImg/info.png" class="pics" alt="info">
+			<img src="http://www.wowthemes.net/demo/studiofrancesca/images/info.png" class="pics" alt="info">
 			<div class="infotext">
 				 Thank you for visiting my theme! Replace this with your message to visitors.
 			</div>
@@ -104,7 +104,7 @@
 <div id="ei-slider" class="ei-slider">
 	<ul class="ei-slider-large">
 		<li>
-		<img src="./images/SiteImg/2.jpg" alt="image01" class="responsiveslide">
+		<img src="http://www.wowthemes.net/demo/studiofrancesca/images/slideshow/large/2.jpg" alt="image01" class="responsiveslide">
 		<div class="ei-title">
 			<h2>Dare to</h2>
 			<h3>Dream</h3>
